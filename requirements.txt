@@ -2,3 +2,6 @@ requests
 datasets[audio]
 pydub
 ffmpeg-python
+setuptools
+pyaudio
+sounddevice
