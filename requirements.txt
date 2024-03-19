@@ -5,3 +5,5 @@ ffmpeg-python
 setuptools
 pyaudio
 sounddevice
+python-dotenv
+streamlit

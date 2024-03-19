@@ -3,6 +3,8 @@ import os , sys
 from scipy.io.wavfile import write
 
 
+
+
 class record:
     def __init__(self,sec):
         self.sec = sec
