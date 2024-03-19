@@ -37,7 +37,7 @@ if st.button('Record'):
     st.write("Recording...")
     with st.spinner("Recording..."):
         try:
-            r = record(10)
+            r = record(5)
             r.recording()
             st.write("Recording complete.")
         except Exception as e:
