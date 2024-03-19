@@ -1,3 +1,7 @@
+<img width="960" alt="Screenshot 2024-03-19 154653" src="https://github.com/ImBharatkumar/speech_to_text/assets/118038590/54dd22c8-a2e7-4618-a9ae-ad65f6c91c1d">
+
+
+
 # Speech-to-Text (SST)
 This project is a simple speech-to-text application that transcribes audio files using the Whisper model from Hugging Face. The application consists of a single Python script that records audio, sends it to the Whisper model for transcription, and prints the transcription results.
 
